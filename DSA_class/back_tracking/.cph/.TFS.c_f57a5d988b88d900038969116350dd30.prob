@@ -1,0 +1,1 @@
+{"name":"Local: TFS","url":"c:\\Users\\nguye\\OneDrive\\Vscode_learn\\DSA_class\\back_tracking\\TFS.c","tests":[{"id":1762944777651,"input":"4\n0 2 4 5\n2 0 2 1\n1 2 0 3\n2 4 5 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nguye\\OneDrive\\Vscode_learn\\DSA_class\\back_tracking\\TFS.c","group":"local","local":true}
